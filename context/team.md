@@ -5,12 +5,13 @@
 
 ## Key People
 
-| Name | Role | When to Loop In |
-|---|---|---|
-| Almir Ribeiro | CEO | Strategic decisions, shareholder alignment, escalations |
-| Barbara Esposito | Head of Operations | Operational execution, cross-functional blockers |
-| Rodrigo Aguilar | Head of Retention | CRM, lifecycle, bonus strategy, player retention |
-| Sapuca | Head of Product | Product roadmap, platform decisions, tech initiatives |
+| Name | Role | Email | When to Loop In |
+|---|---|---|---|
+| Almir Ribeiro | CEO | — | Strategic decisions, shareholder alignment, escalations |
+| Barbara Esposito | Head of Operations | — | Operational execution, cross-functional blockers |
+| Rodrigo Aguilar | Head of Retention | rodrigo.aguilar@betmgm.com.br | CRM, lifecycle, bonus strategy, player retention |
+| Sapuca | Head of Product | — | Product roadmap, platform decisions, tech initiatives |
+| Yasser Lopes | — | yasser.lopes@betmgm.com.br | — |
 
 _More names to be added over time._
 
