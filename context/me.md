@@ -18,6 +18,9 @@ Raising my two kids. Everything else is in service of this.
 - Strategic mindset — comfortable with complexity
 - Iterative communicator — prefers clear, actionable outputs
 
+## Travel Preferences
+- Always leaves home **4 hours before flight departure**
+
 ## Personal
 - Training for the **2026 London Marathon** (long runs Saturdays, 21–34 km)
 - Tracks: pace, HR, VO2 max (~50–51), cadence, power, GCT, vertical oscillation (Garmin)
