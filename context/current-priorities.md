@@ -1,8 +1,14 @@
 # Current Priorities
 
-_Last updated: 2026-03-14_
+_Last updated: 2026-04-13_
 
-## Top Priorities
+## This Week (Apr 13–18)
+
+1. **Acquisition strategy alignment** — Sync with Pedro and Santiago to define next steps
+2. **Monthly Business Review prep** — Align on presentation and speech for the MBR on Apr 16
+3. **Brasília trip** — Tomorrow (Apr 14); define agenda and meetings to attend
+
+## Strategic Priorities
 
 1. **Scale the business** — Drive GGR, NDC, and player base growth in the Brazilian market
 2. **Build shareholder trust** — Demonstrate leadership and delivery capability to MGM stakeholders
@@ -14,4 +20,5 @@ _Last updated: 2026-03-14_
 - Build VIP player base (see `projects/`)
 
 ## Deadlines
-None flagged. Update this section when time-sensitive items emerge.
+- **Apr 14** — Brasília trip (meetings TBD)
+- **Apr 16** — Monthly Business Review
